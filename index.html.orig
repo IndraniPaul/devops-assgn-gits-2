@@ -2,7 +2,11 @@
 <html>
 
 <head>
+<<<<<<< HEAD
+     <title>HTML Application for Jenkins</title>
+=======
      <title>HTML Application for Docker</title>
+>>>>>>> branch2
 	 <link href="css/site.css" rel="stylesheet">
 </head>
 
